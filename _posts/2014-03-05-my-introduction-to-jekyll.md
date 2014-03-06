@@ -15,4 +15,6 @@ Once I started down this path, I realized that there is more than one static sit
 
 It turns out that Jekyll does compare favorably on a couple key metrics: community and recent activity.
 
-According to http://staticsitegenerators.net/, Jekyll is the most-starred item listed, has existed for 5 years, and the latest contribution to the source on Github happened yesterday. So... we shall continue!
+According to [http://staticsitegenerators.net/][1], Jekyll is the most-starred item listed, has existed for 5 years, and the latest contribution to the source on Github happened yesterday. So... we shall continue!
+
+[1]: http://staticsitegenerators.net/
