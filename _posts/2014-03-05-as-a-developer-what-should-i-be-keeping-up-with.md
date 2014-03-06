@@ -17,9 +17,9 @@ The goal of all this study is to select things that help you be productive for a
 
 Currently, I am studying the following topics:
 
-+ Puppet/Chef - I have been using Vagrant for about a year, and am striving to help me colleagues quickly and easily build consistent development environments. I started with Chef, but have been having more success with Puppet as of late.
-+ Responsive Development - I've worked with Bootstrap and Foundation (among others), and have opinions on the strengths and weaknesses of each. I would still say I am seeking a best-of-breed solution.
-+ HTML5 Chart Development - Experimented with chart.js, ammaps and other libraries for presented animated and interesting data across many devices.
++ __Puppet/Chef__ - I have been using Vagrant for about a year, and am striving to help me colleagues quickly and easily build consistent development environments. I started with Chef, but have been having more success with Puppet as of late.
++ __Responsive Development__ - I've worked with Bootstrap and Foundation (among others), and have opinions on the strengths and weaknesses of each. I would still say I am seeking a best-of-breed solution.
++ __HTML5 Chart Development__ - Experimented with chart.js, ammaps and other libraries for presented animated and interesting data across many devices.
 
 All three of these topics help demonstrate the difficulties in this profession. They all present multiple options, all of which are advancing at a rapid pace. Keeping up is a challenge, keeping sharp is a worse, and actually getting ahead may not be possible at all.
 
