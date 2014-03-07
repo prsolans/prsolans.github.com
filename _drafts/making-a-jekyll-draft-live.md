@@ -10,3 +10,5 @@ tags : [study, jekyll]
 You know you can create a draft, and also view the draft locally by running `jekyll serve --draft`.
 
 But then, how do you convert a draft to a live post?
+
+Check this out: https://github.com/mmcclimon/mr_poole

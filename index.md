@@ -1,7 +1,6 @@
 ---
 layout: page
-title: prsolans
-tagline: Onward and Upward
+title: Onward and Upward
 ---
 
 *We'll just see how long this lasts.*
