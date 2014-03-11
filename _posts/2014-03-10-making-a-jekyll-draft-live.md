@@ -2,6 +2,7 @@
 layout: post
 title: "Converting a Jekyll post from draft to live"
 category : lessons
+tagline: "Supporting tagline"
 tags : [study, jekyll]
 ---
 {% include JB/setup %}
