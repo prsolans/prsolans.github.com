@@ -11,7 +11,7 @@ pygments: true
 title : prsolans
 tagline: onward and upward
 author :
-  name : PR Solans
+  name : P.R. Solans
   email : prsolans@gmail.com
   github : prsolans
   twitter : prsweb
@@ -80,7 +80,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
